@@ -1,6 +1,6 @@
 # Proyecto de Base de Datos 1 
 
-**Grupo de trabajo**
+**Grupo de trabajo**.
 
 | Nombre   |   Carnet      | 
 |----------|:-------------:|
